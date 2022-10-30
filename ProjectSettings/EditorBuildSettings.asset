@@ -5,15 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: Assets/Scenes/Controller-Events_Copy.unity
-    guid: 1639424e600ea614ca4702a278116081
   - enabled: 1
     path: Assets/Scenes/FirstTestScene_Working.unity
     guid: 70a2a68d16af5694b8b2a358dcf199b2
