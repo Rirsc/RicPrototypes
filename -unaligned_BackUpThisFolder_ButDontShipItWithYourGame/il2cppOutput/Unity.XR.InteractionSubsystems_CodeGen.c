@@ -1,0 +1,321 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_IsEditorOnly_mBB6049383114B43A5A255E7269A90D55E72824F5 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_Get_m26865FE08A6AF688C7AF54A0834D5FE65612B83E (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes__ctor_mB8A4434F86FA805CA9D32092F1BF3D03114FF131 (void);
+extern void GestureId_get_invalidId_m45F913167086D1B14758AD9DAFEECC793BAB7E46 (void);
+extern void GestureId_get_subId1_m89F2A377F73675673A9E599BAB051051115EE9DB (void);
+extern void GestureId_set_subId1_m83CBBB497A10F5B889BFB63598D8DC74521C1F65 (void);
+extern void GestureId_get_subId2_m9E2A8235F7AD103DFAF6F22BE7D526B4A7B96C57 (void);
+extern void GestureId_set_subId2_mCA6C71AC79A083622FC5BCB4B850929D31BD650A (void);
+extern void GestureId__ctor_m0C778BF11BD442EE678B8585929BD2989F204477 (void);
+extern void GestureId_ToString_m95EE2DB48A7F03054EAAECCE0BC1C0101CD262A7 (void);
+extern void GestureId_GetHashCode_mDB03D83CF6901D2AA723C47F35A52FE7D82C9947 (void);
+extern void GestureId_Equals_m1F12C65B7B36BC675E45E73193A9C3C5D0F6E780 (void);
+extern void GestureId_Equals_m8F40D0F5E7385F136AE219D4B23DF5E8933AF5B9 (void);
+extern void GestureId_op_Equality_m5356EFFAAE672247F6A570CA075A58946CD44046 (void);
+extern void GestureId_op_Inequality_m0DD9C325F66049723B34302E0847508DB6EC4A68 (void);
+extern void GestureId__cctor_m165409DCEBD5CD89B21F6D4BBB570848A164B862 (void);
+extern void ActivateGestureEvent_get_id_mDFA215F0AC9DB1C7664CAEC1B541AF9B8F153E79 (void);
+extern void ActivateGestureEvent_get_state_mC42DBAB199BD9B57A9C626062FCC2B6449ABAE59 (void);
+extern void ActivateGestureEvent_GetDefault_mE1BD2C72982746FDE820C825CDA0A6A3B3692B48 (void);
+extern void ActivateGestureEvent__ctor_mE94A6D34011C3E38C0AC556EFB3C4FD2572B257C (void);
+extern void ActivateGestureEvent_ToString_mB0704678A7B0A0540231DC9844493601B74A915C (void);
+extern void ActivateGestureEvent_Equals_m96BEFABE568E2B5A9644FE0096D33BF5EBA0B810 (void);
+extern void ActivateGestureEvent_GetHashCode_m0A2C34B23A0F756E2C8239BCCBC7BF8D616F43BA (void);
+extern void ActivateGestureEvent_op_Equality_m2B9F68F8E6FBE6CAB9C0D53702E6344BA2B56D53 (void);
+extern void ActivateGestureEvent_op_Inequality_mC71FEC70B86821579CFA7F90D153A25FA2326800 (void);
+extern void ActivateGestureEvent_Equals_mD33019E347FE69AEBA744FDA16DC5D2F35A96B0D (void);
+extern void XRGestureSubsystem_get_running_m02071325DF9AC89F28CD1094D4008A48E2191090 (void);
+extern void XRGestureSubsystem_get_activateGestureEvents_m448FBE7F00729269AC0583FC9FFC051219296FA3 (void);
+extern void XRGestureSubsystem__ctor_mFB3D786D0CD33A93273A10640DBA1C2DB0ADBE35 (void);
+extern void XRGestureSubsystem_Start_m9C6EECCEC6863FBDB89B9166137CC786CECB6037 (void);
+extern void XRGestureSubsystem_Stop_m7CC50B2D1CFE54791376717051662E66D3C4772E (void);
+extern void XRGestureSubsystem_OnDestroy_mBD22C9E67EFD924E1DFC70599597A07D919F95DA (void);
+extern void XRGestureSubsystem_Update_mA7EC2857D6A489B6E306B5B95C89B99866565521 (void);
+extern void Provider_Destroy_m683458C4B17C0D76BD16FEBA60AF570C15691F25 (void);
+extern void Provider_get_activateGestureEvents_mAACAFE9281BC05006F9B1DB34DEF2EDD33E25F1D (void);
+extern void Provider__ctor_m9E407F6EE10196B8E33C9EBCEA14B820CF318FA3 (void);
+extern void XRGestureSubsystemDescriptor_RegisterDescriptor_m82FA5441F192B5C31F96713C1E4ECBB58B72D98E (void);
+extern void XRGestureSubsystemDescriptor__ctor_mD429C2E47E97699ECF057CCF2299DE29846D1A5D (void);
+extern void Cinfo_get_id_mEF7695BF9B9F6A24E903160614AD31FAEE85FB06 (void);
+extern void Cinfo_set_id_m8E628CE0CB042DFD919834B0E038484A0A8E4B53 (void);
+extern void Cinfo_get_subsystemImplementationType_mEF450D28EEF6D2CA0B58AA68D7B08E575C35D38D (void);
+extern void Cinfo_set_subsystemImplementationType_mF4BB5614BA21A9B2F84E112817AA88A7165B2D08 (void);
+extern void Cinfo_GetHashCode_m4C83A2BAAE38F5E2A7C4EA8FE2ABC223AF6C915A (void);
+extern void Cinfo_Equals_m48F26BC0F1F9390FDAE1F255BAA71788BD7AED71 (void);
+extern void Cinfo_Equals_m6D0C2849688B9440A20239F5FF02820E020D5A89 (void);
+extern void Cinfo_op_Equality_mC2F40D88CB94F7C8F1D15113A4A733DE246EC916 (void);
+extern void Cinfo_op_Inequality_m64837BBFC8CF2A0DC745354E74412527E6B091B7 (void);
+static Il2CppMethodPointer s_methodPointers[63] = 
+{
+	UnitySourceGeneratedAssemblyMonoScriptTypes_IsEditorOnly_mBB6049383114B43A5A255E7269A90D55E72824F5,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_Get_m26865FE08A6AF688C7AF54A0834D5FE65612B83E,
+	UnitySourceGeneratedAssemblyMonoScriptTypes__ctor_mB8A4434F86FA805CA9D32092F1BF3D03114FF131,
+	GestureId_get_invalidId_m45F913167086D1B14758AD9DAFEECC793BAB7E46,
+	GestureId_get_subId1_m89F2A377F73675673A9E599BAB051051115EE9DB,
+	GestureId_set_subId1_m83CBBB497A10F5B889BFB63598D8DC74521C1F65,
+	GestureId_get_subId2_m9E2A8235F7AD103DFAF6F22BE7D526B4A7B96C57,
+	GestureId_set_subId2_mCA6C71AC79A083622FC5BCB4B850929D31BD650A,
+	GestureId__ctor_m0C778BF11BD442EE678B8585929BD2989F204477,
+	GestureId_ToString_m95EE2DB48A7F03054EAAECCE0BC1C0101CD262A7,
+	GestureId_GetHashCode_mDB03D83CF6901D2AA723C47F35A52FE7D82C9947,
+	GestureId_Equals_m1F12C65B7B36BC675E45E73193A9C3C5D0F6E780,
+	GestureId_Equals_m8F40D0F5E7385F136AE219D4B23DF5E8933AF5B9,
+	GestureId_op_Equality_m5356EFFAAE672247F6A570CA075A58946CD44046,
+	GestureId_op_Inequality_m0DD9C325F66049723B34302E0847508DB6EC4A68,
+	GestureId__cctor_m165409DCEBD5CD89B21F6D4BBB570848A164B862,
+	ActivateGestureEvent_get_id_mDFA215F0AC9DB1C7664CAEC1B541AF9B8F153E79,
+	ActivateGestureEvent_get_state_mC42DBAB199BD9B57A9C626062FCC2B6449ABAE59,
+	ActivateGestureEvent_GetDefault_mE1BD2C72982746FDE820C825CDA0A6A3B3692B48,
+	ActivateGestureEvent__ctor_mE94A6D34011C3E38C0AC556EFB3C4FD2572B257C,
+	ActivateGestureEvent_ToString_mB0704678A7B0A0540231DC9844493601B74A915C,
+	ActivateGestureEvent_Equals_m96BEFABE568E2B5A9644FE0096D33BF5EBA0B810,
+	ActivateGestureEvent_GetHashCode_m0A2C34B23A0F756E2C8239BCCBC7BF8D616F43BA,
+	ActivateGestureEvent_op_Equality_m2B9F68F8E6FBE6CAB9C0D53702E6344BA2B56D53,
+	ActivateGestureEvent_op_Inequality_mC71FEC70B86821579CFA7F90D153A25FA2326800,
+	ActivateGestureEvent_Equals_mD33019E347FE69AEBA744FDA16DC5D2F35A96B0D,
+	XRGestureSubsystem_get_running_m02071325DF9AC89F28CD1094D4008A48E2191090,
+	XRGestureSubsystem_get_activateGestureEvents_m448FBE7F00729269AC0583FC9FFC051219296FA3,
+	XRGestureSubsystem__ctor_mFB3D786D0CD33A93273A10640DBA1C2DB0ADBE35,
+	XRGestureSubsystem_Start_m9C6EECCEC6863FBDB89B9166137CC786CECB6037,
+	XRGestureSubsystem_Stop_m7CC50B2D1CFE54791376717051662E66D3C4772E,
+	XRGestureSubsystem_OnDestroy_mBD22C9E67EFD924E1DFC70599597A07D919F95DA,
+	XRGestureSubsystem_Update_mA7EC2857D6A489B6E306B5B95C89B99866565521,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	Provider_Destroy_m683458C4B17C0D76BD16FEBA60AF570C15691F25,
+	Provider_get_activateGestureEvents_mAACAFE9281BC05006F9B1DB34DEF2EDD33E25F1D,
+	Provider__ctor_m9E407F6EE10196B8E33C9EBCEA14B820CF318FA3,
+	XRGestureSubsystemDescriptor_RegisterDescriptor_m82FA5441F192B5C31F96713C1E4ECBB58B72D98E,
+	XRGestureSubsystemDescriptor__ctor_mD429C2E47E97699ECF057CCF2299DE29846D1A5D,
+	Cinfo_get_id_mEF7695BF9B9F6A24E903160614AD31FAEE85FB06,
+	Cinfo_set_id_m8E628CE0CB042DFD919834B0E038484A0A8E4B53,
+	Cinfo_get_subsystemImplementationType_mEF450D28EEF6D2CA0B58AA68D7B08E575C35D38D,
+	Cinfo_set_subsystemImplementationType_mF4BB5614BA21A9B2F84E112817AA88A7165B2D08,
+	Cinfo_GetHashCode_m4C83A2BAAE38F5E2A7C4EA8FE2ABC223AF6C915A,
+	Cinfo_Equals_m48F26BC0F1F9390FDAE1F255BAA71788BD7AED71,
+	Cinfo_Equals_m6D0C2849688B9440A20239F5FF02820E020D5A89,
+	Cinfo_op_Equality_mC2F40D88CB94F7C8F1D15113A4A733DE246EC916,
+	Cinfo_op_Inequality_m64837BBFC8CF2A0DC745354E74412527E6B091B7,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
+extern void GestureId_get_subId1_m89F2A377F73675673A9E599BAB051051115EE9DB_AdjustorThunk (void);
+extern void GestureId_set_subId1_m83CBBB497A10F5B889BFB63598D8DC74521C1F65_AdjustorThunk (void);
+extern void GestureId_get_subId2_m9E2A8235F7AD103DFAF6F22BE7D526B4A7B96C57_AdjustorThunk (void);
+extern void GestureId_set_subId2_mCA6C71AC79A083622FC5BCB4B850929D31BD650A_AdjustorThunk (void);
+extern void GestureId__ctor_m0C778BF11BD442EE678B8585929BD2989F204477_AdjustorThunk (void);
+extern void GestureId_ToString_m95EE2DB48A7F03054EAAECCE0BC1C0101CD262A7_AdjustorThunk (void);
+extern void GestureId_GetHashCode_mDB03D83CF6901D2AA723C47F35A52FE7D82C9947_AdjustorThunk (void);
+extern void GestureId_Equals_m1F12C65B7B36BC675E45E73193A9C3C5D0F6E780_AdjustorThunk (void);
+extern void GestureId_Equals_m8F40D0F5E7385F136AE219D4B23DF5E8933AF5B9_AdjustorThunk (void);
+extern void ActivateGestureEvent_get_id_mDFA215F0AC9DB1C7664CAEC1B541AF9B8F153E79_AdjustorThunk (void);
+extern void ActivateGestureEvent_get_state_mC42DBAB199BD9B57A9C626062FCC2B6449ABAE59_AdjustorThunk (void);
+extern void ActivateGestureEvent__ctor_mE94A6D34011C3E38C0AC556EFB3C4FD2572B257C_AdjustorThunk (void);
+extern void ActivateGestureEvent_ToString_mB0704678A7B0A0540231DC9844493601B74A915C_AdjustorThunk (void);
+extern void ActivateGestureEvent_Equals_m96BEFABE568E2B5A9644FE0096D33BF5EBA0B810_AdjustorThunk (void);
+extern void ActivateGestureEvent_GetHashCode_m0A2C34B23A0F756E2C8239BCCBC7BF8D616F43BA_AdjustorThunk (void);
+extern void ActivateGestureEvent_Equals_mD33019E347FE69AEBA744FDA16DC5D2F35A96B0D_AdjustorThunk (void);
+extern void Cinfo_get_id_mEF7695BF9B9F6A24E903160614AD31FAEE85FB06_AdjustorThunk (void);
+extern void Cinfo_set_id_m8E628CE0CB042DFD919834B0E038484A0A8E4B53_AdjustorThunk (void);
+extern void Cinfo_get_subsystemImplementationType_mEF450D28EEF6D2CA0B58AA68D7B08E575C35D38D_AdjustorThunk (void);
+extern void Cinfo_set_subsystemImplementationType_mF4BB5614BA21A9B2F84E112817AA88A7165B2D08_AdjustorThunk (void);
+extern void Cinfo_GetHashCode_m4C83A2BAAE38F5E2A7C4EA8FE2ABC223AF6C915A_AdjustorThunk (void);
+extern void Cinfo_Equals_m48F26BC0F1F9390FDAE1F255BAA71788BD7AED71_AdjustorThunk (void);
+extern void Cinfo_Equals_m6D0C2849688B9440A20239F5FF02820E020D5A89_AdjustorThunk (void);
+static Il2CppTokenAdjustorThunkPair s_adjustorThunks[23] = 
+{
+	{ 0x06000005, GestureId_get_subId1_m89F2A377F73675673A9E599BAB051051115EE9DB_AdjustorThunk },
+	{ 0x06000006, GestureId_set_subId1_m83CBBB497A10F5B889BFB63598D8DC74521C1F65_AdjustorThunk },
+	{ 0x06000007, GestureId_get_subId2_m9E2A8235F7AD103DFAF6F22BE7D526B4A7B96C57_AdjustorThunk },
+	{ 0x06000008, GestureId_set_subId2_mCA6C71AC79A083622FC5BCB4B850929D31BD650A_AdjustorThunk },
+	{ 0x06000009, GestureId__ctor_m0C778BF11BD442EE678B8585929BD2989F204477_AdjustorThunk },
+	{ 0x0600000A, GestureId_ToString_m95EE2DB48A7F03054EAAECCE0BC1C0101CD262A7_AdjustorThunk },
+	{ 0x0600000B, GestureId_GetHashCode_mDB03D83CF6901D2AA723C47F35A52FE7D82C9947_AdjustorThunk },
+	{ 0x0600000C, GestureId_Equals_m1F12C65B7B36BC675E45E73193A9C3C5D0F6E780_AdjustorThunk },
+	{ 0x0600000D, GestureId_Equals_m8F40D0F5E7385F136AE219D4B23DF5E8933AF5B9_AdjustorThunk },
+	{ 0x06000011, ActivateGestureEvent_get_id_mDFA215F0AC9DB1C7664CAEC1B541AF9B8F153E79_AdjustorThunk },
+	{ 0x06000012, ActivateGestureEvent_get_state_mC42DBAB199BD9B57A9C626062FCC2B6449ABAE59_AdjustorThunk },
+	{ 0x06000014, ActivateGestureEvent__ctor_mE94A6D34011C3E38C0AC556EFB3C4FD2572B257C_AdjustorThunk },
+	{ 0x06000015, ActivateGestureEvent_ToString_mB0704678A7B0A0540231DC9844493601B74A915C_AdjustorThunk },
+	{ 0x06000016, ActivateGestureEvent_Equals_m96BEFABE568E2B5A9644FE0096D33BF5EBA0B810_AdjustorThunk },
+	{ 0x06000017, ActivateGestureEvent_GetHashCode_m0A2C34B23A0F756E2C8239BCCBC7BF8D616F43BA_AdjustorThunk },
+	{ 0x0600001A, ActivateGestureEvent_Equals_mD33019E347FE69AEBA744FDA16DC5D2F35A96B0D_AdjustorThunk },
+	{ 0x0600002B, Cinfo_get_id_mEF7695BF9B9F6A24E903160614AD31FAEE85FB06_AdjustorThunk },
+	{ 0x0600002C, Cinfo_set_id_m8E628CE0CB042DFD919834B0E038484A0A8E4B53_AdjustorThunk },
+	{ 0x0600002D, Cinfo_get_subsystemImplementationType_mEF450D28EEF6D2CA0B58AA68D7B08E575C35D38D_AdjustorThunk },
+	{ 0x0600002E, Cinfo_set_subsystemImplementationType_mF4BB5614BA21A9B2F84E112817AA88A7165B2D08_AdjustorThunk },
+	{ 0x0600002F, Cinfo_GetHashCode_m4C83A2BAAE38F5E2A7C4EA8FE2ABC223AF6C915A_AdjustorThunk },
+	{ 0x06000030, Cinfo_Equals_m48F26BC0F1F9390FDAE1F255BAA71788BD7AED71_AdjustorThunk },
+	{ 0x06000031, Cinfo_Equals_m6D0C2849688B9440A20239F5FF02820E020D5A89_AdjustorThunk },
+};
+static const int32_t s_InvokerIndices[63] = 
+{
+	16612,
+	16655,
+	9686,
+	16628,
+	9670,
+	7665,
+	9670,
+	7665,
+	4214,
+	9542,
+	9489,
+	5306,
+	5226,
+	13152,
+	13152,
+	16717,
+	9453,
+	9489,
+	16604,
+	3326,
+	9542,
+	5306,
+	9489,
+	13110,
+	13110,
+	5141,
+	9403,
+	9216,
+	9686,
+	9686,
+	9686,
+	9686,
+	9686,
+	0,
+	0,
+	0,
+	0,
+	9686,
+	9216,
+	9686,
+	15772,
+	7979,
+	9542,
+	7545,
+	9542,
+	7545,
+	9489,
+	5306,
+	5731,
+	13349,
+	13349,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+};
+static const Il2CppTokenRangePair s_rgctxIndices[2] = 
+{
+	{ 0x0200000D, { 7, 18 } },
+	{ 0x06000034, { 0, 7 } },
+};
+extern const uint32_t g_rgctx_NativeArray_1__ctor_m783034B8FF76AF5E966D8964A8915BBA5FC51DCA;
+extern const uint32_t g_rgctx_UnsafeUtility_SizeOf_TisT_tD70A924249CA9E1DFBECEA602D4BD20CE4FA354F_mCDD37B8F7CBD20B30AE2B1FA502066C6CB7E7634;
+extern const uint32_t g_rgctx_T_tD70A924249CA9E1DFBECEA602D4BD20CE4FA354F;
+extern const uint32_t g_rgctx_UnsafeUtility_AddressOf_TisT_tD70A924249CA9E1DFBECEA602D4BD20CE4FA354F_m7BE6B62D58DF2E16529FCA9527EA5FF7810C6E77;
+extern const uint32_t g_rgctx_TU26_tEBA92DCFD1A708AEBD9EF6E523601B26F4859C97;
+extern const uint32_t g_rgctx_NativeArrayUnsafeUtility_GetUnsafePtr_TisT_tD70A924249CA9E1DFBECEA602D4BD20CE4FA354F_m59C9858FE1DE29659F960F9351C64253EB70D0C1;
+extern const uint32_t g_rgctx_NativeArray_1_tE0AF13EC00D81FFB1A93A88DCA25D1FE926084EA;
+extern const uint32_t g_rgctx_SubsystemLifecycleManager_2_t99FECB264EA1C1C61CD92DC527926F90A580CAFD;
+extern const uint32_t g_rgctx_TSubsystem_tCB3DBBB6073A8CA8489FB7B7C5FC27F16F67520C;
+extern const uint32_t g_rgctx_List_1_t7F556C19CCB0820A0C73F155B745253EE068B8E7;
+extern const uint32_t g_rgctx_SubsystemLifecycleManager_2_t99FECB264EA1C1C61CD92DC527926F90A580CAFD;
+extern const uint32_t g_rgctx_SubsystemManager_GetSubsystemDescriptors_TisTSubsystemDescriptor_t32CE4CF5599FF17C25FE1A8FAFE3F7F296EE3742_m5CFC0A4DCE357AA542FB13BFC4B26D95A40815F8;
+extern const uint32_t g_rgctx_List_1_get_Count_mE29E37812E6B1451ECF4A2FB5EEC41BCDEA2F61E;
+extern const uint32_t g_rgctx_List_1_get_Item_m54D65C86F06F3336C693B00795BD9E855073B6D6;
+extern const uint32_t g_rgctx_TSubsystemDescriptor_t32CE4CF5599FF17C25FE1A8FAFE3F7F296EE3742;
+extern const uint32_t g_rgctx_TSubsystem_tCB3DBBB6073A8CA8489FB7B7C5FC27F16F67520C;
+extern const uint32_t g_rgctx_SubsystemDescriptor_1_t34DDAD2B78F2EAE57EA8ED6D7BA6A358E9DB3018;
+extern const uint32_t g_rgctx_SubsystemDescriptor_1_Create_m5EC084B87BAEFD2CA54DA6654C9C97D894BF320A;
+extern const uint32_t g_rgctx_SubsystemLifecycleManager_2_get_subsystem_mAAB42F78870B6E78667BA95A3C85D94AB77F7306;
+extern const uint32_t g_rgctx_SubsystemLifecycleManager_2_CreateSubsystem_m807398BC982BA9303DBE3B31592A36AB612144E9;
+extern const uint32_t g_rgctx_SubsystemLifecycleManager_2_set_subsystem_m6E06A4936687C4EC7D549BA98DB992473AED5277;
+extern const uint32_t g_rgctx_SubsystemLifecycleManager_2_CreateSubsystemIfNecessary_mB8FC8EC42AA2B883FCA7F7287245E52E86B3978D;
+extern const uint32_t g_rgctx_SubsystemLifecycleManager_2_OnBeforeStart_m42750B07F33FCA8699F13E468D852A1798E2E220;
+extern const uint32_t g_rgctx_SubsystemLifecycleManager_2_OnAfterStart_m6F0E3B2EB70613652939A7A471980806C990C857;
+extern const uint32_t g_rgctx_List_1__ctor_m2FAB1F722CB28F6CF8D7DF383373551F34538FE1;
+static const Il2CppRGCTXDefinition s_rgctxValues[25] = 
+{
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_NativeArray_1__ctor_m783034B8FF76AF5E966D8964A8915BBA5FC51DCA },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_UnsafeUtility_SizeOf_TisT_tD70A924249CA9E1DFBECEA602D4BD20CE4FA354F_mCDD37B8F7CBD20B30AE2B1FA502066C6CB7E7634 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_T_tD70A924249CA9E1DFBECEA602D4BD20CE4FA354F },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_UnsafeUtility_AddressOf_TisT_tD70A924249CA9E1DFBECEA602D4BD20CE4FA354F_m7BE6B62D58DF2E16529FCA9527EA5FF7810C6E77 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_TU26_tEBA92DCFD1A708AEBD9EF6E523601B26F4859C97 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_NativeArrayUnsafeUtility_GetUnsafePtr_TisT_tD70A924249CA9E1DFBECEA602D4BD20CE4FA354F_m59C9858FE1DE29659F960F9351C64253EB70D0C1 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_NativeArray_1_tE0AF13EC00D81FFB1A93A88DCA25D1FE926084EA },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_SubsystemLifecycleManager_2_t99FECB264EA1C1C61CD92DC527926F90A580CAFD },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_TSubsystem_tCB3DBBB6073A8CA8489FB7B7C5FC27F16F67520C },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_List_1_t7F556C19CCB0820A0C73F155B745253EE068B8E7 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_SubsystemLifecycleManager_2_t99FECB264EA1C1C61CD92DC527926F90A580CAFD },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_SubsystemManager_GetSubsystemDescriptors_TisTSubsystemDescriptor_t32CE4CF5599FF17C25FE1A8FAFE3F7F296EE3742_m5CFC0A4DCE357AA542FB13BFC4B26D95A40815F8 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_List_1_get_Count_mE29E37812E6B1451ECF4A2FB5EEC41BCDEA2F61E },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_List_1_get_Item_m54D65C86F06F3336C693B00795BD9E855073B6D6 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_TSubsystemDescriptor_t32CE4CF5599FF17C25FE1A8FAFE3F7F296EE3742 },
+	{ (Il2CppRGCTXDataType)1, (const void *)&g_rgctx_TSubsystem_tCB3DBBB6073A8CA8489FB7B7C5FC27F16F67520C },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_SubsystemDescriptor_1_t34DDAD2B78F2EAE57EA8ED6D7BA6A358E9DB3018 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_SubsystemDescriptor_1_Create_m5EC084B87BAEFD2CA54DA6654C9C97D894BF320A },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_SubsystemLifecycleManager_2_get_subsystem_mAAB42F78870B6E78667BA95A3C85D94AB77F7306 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_SubsystemLifecycleManager_2_CreateSubsystem_m807398BC982BA9303DBE3B31592A36AB612144E9 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_SubsystemLifecycleManager_2_set_subsystem_m6E06A4936687C4EC7D549BA98DB992473AED5277 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_SubsystemLifecycleManager_2_CreateSubsystemIfNecessary_mB8FC8EC42AA2B883FCA7F7287245E52E86B3978D },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_SubsystemLifecycleManager_2_OnBeforeStart_m42750B07F33FCA8699F13E468D852A1798E2E220 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_SubsystemLifecycleManager_2_OnAfterStart_m6F0E3B2EB70613652939A7A471980806C990C857 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_List_1__ctor_m2FAB1F722CB28F6CF8D7DF383373551F34538FE1 },
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Unity_XR_InteractionSubsystems_CodeGenModule;
+const Il2CppCodeGenModule g_Unity_XR_InteractionSubsystems_CodeGenModule = 
+{
+	"Unity.XR.InteractionSubsystems.dll",
+	63,
+	s_methodPointers,
+	23,
+	s_adjustorThunks,
+	s_InvokerIndices,
+	0,
+	NULL,
+	2,
+	s_rgctxIndices,
+	25,
+	s_rgctxValues,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1695b796ef95ad04da6831041447aca5, type: 3}
+  m_Name: MagicLeapManifestSettings
+  m_EditorClassIdentifier: 
+  selectedAPILevel: 20
+  permissionGroups:
+  - name: Dangerous
+    permissions:
+    - name: android.permission.CAMERA
+      enabled: 0
+      label: CAMERA
+      description: Permission to use device camera(s).
+      category: 2
+      apiLevel: 20
+    - name: android.permission.RECORD_AUDIO
+      enabled: 0
+      label: RECORD_AUDIO
+      description: Permission to use device microphone to record audio.
+      category: 2
+      apiLevel: 20
+    - name: com.magicleap.permission.EYE_TRACKING
+      enabled: 0
+      label: EYE_TRACKING
+      description: Permission to obtain eye tracking data.
+      category: 2
+      apiLevel: 9
+    - name: com.magicleap.permission.PUPIL_SIZE
+      enabled: 0
+      label: PUPIL_SIZE
+      description: Permission to obtain eye pupil size data.
+      category: 2
+      apiLevel: 20
+    - name: com.magicleap.permission.VOICE_INPUT
+      enabled: 0
+      label: VOICE_INPUT
+      description: Permission to obtain voice input data.
+      category: 2
+      apiLevel: 20
+  - name: Normal
+    permissions:
+    - name: com.magicleap.permission.CONTROLLER_POSE
+      enabled: 1
+      label: CONTROLLER_POSE
+      description: Permission to obtain controler pose data.
+      category: 1
+      apiLevel: 4
+    - name: com.magicleap.permission.HEAD_POSE
+      enabled: 1
+      label: HEAD_POSE
+      description: Permission to obtain head pose data.
+      category: 1
+      apiLevel: 1
+    - name: com.magicleap.permission.SPATIAL_ANCHOR
+      enabled: 1
+      label: SPATIAL_ANCHOR
+      description: Permission to obtain spatial anchor(s) data.
+      category: 1
+      apiLevel: 20
+    - name: com.magicleap.permission.HAND_TRACKING
+      enabled: 1
+      label: HAND_TRACKING
+      description: Permission to obtain hand tracking data.
+      category: 1
+      apiLevel: 20
+    - name: com.magicleap.permission.WEBVIEW
+      enabled: 0
+      label: WEBVIEW
+      description: Permission to enable WebView access.
+      category: 1
+      apiLevel: 20
+    - name: com.magicleap.permission.MARKER_TRACKING
+      enabled: 0
+      label: MARKER_TRACKING
+      description: Permission to obtain marker tracking data.
+      category: 1
+      apiLevel: 20
+    - name: com.magicleap.permission.WORLD_RECONSTRUCTION
+      enabled: 1
+      label: WORLD_RECONSTRUCTION
+      description: Permission to obtain world reconstruction planes data.
+      category: 1
+      apiLevel: 20
