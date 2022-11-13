@@ -5,9 +5,27 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/FirstTestScene_GameWorking_BuildNotWorking.unity
+    guid: 68e6976977fc58245a4c5cd07dbfeb79
+  - enabled: 0
+    path: Assets/Scenes/Controller-Events_CopyNoWorking.unity
+    guid: fdb7d6bda457ae14bb3c2f4dce1b0b9d
+  - enabled: 0
+    path: Packages/com.magicleap.designtoolkit/Samples/UIKit/Scenes/UIKit-UGUI-TabbedPanel.unity
+    guid: 943df1171b1c84742942dd7e81efef36
+  - enabled: 0
+    path: Packages/com.magicleap.designtoolkit/Samples/Controller/Scenes/Controller-Events.unity
+    guid: e7cc3e7faa774ff4091778c787683822
+  - enabled: 0
+    path: Packages/com.magicleap.designtoolkit/Samples/Controller/Scenes/Controller-Manipulation.unity
+    guid: 7c3bc757aefa9694b8004f8c176b2244
   - enabled: 1
-    path: Assets/Scenes/FirstTestScene_Working.unity
-    guid: 70a2a68d16af5694b8b2a358dcf199b2
+    path: Assets/Scenes/UIKit-UGUI-TabbedPanel-Copy.unity
+    guid: 5c99c133e8ee0354fbda9a0d1f8576b8
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 7ecbb4a3da59f451cb14100e7d2c344a,
       type: 2}
